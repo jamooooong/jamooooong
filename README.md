@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 [![rankit-badge](https://badge.rankit.run/badge?name=jamooooong)](https://www.rankit.run)
+[![rankit-badge](https://badge.rankit.run/badge?name=suwonthugger)](https://www.rankit.run)
+[![rankit-badge](https://badge.rankit.run/badge?name=khyojun)](https://www.rankit.run)
+[![rankit-badge](https://badge.rankit.run/badge?name=Oodls)](https://www.rankit.run)
 <!--
 **jamooooong/jamooooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
